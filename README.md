@@ -42,3 +42,25 @@ PhishSenseAI aims to **counter AI with AI** — equipping defenders with tools j
   - `random`, `os` – Email generation logic
 
 ---
+🧩 Use Cases
+✅ Employee phishing training
+
+🔬 Academic and AI research
+
+🛡 Security awareness simulation
+
+📈 Dataset generation and testing
+
+
+---
+
+🌍 Future Enhancements
+📎 HTML & attachment parsing for embedded threats
+
+🌐 Multilingual detection (French, Spanish, etc.)
+
+🧑‍💻 Email client integration (Outlook, Gmail, Thunderbird)
+
+🧠 Explainable AI (XAI) interface
+
+🧬 Behavioral anomaly detection integration
